@@ -78,7 +78,7 @@ python MonteCarlo.py
 ```
 
 ##### Additional Arguments
-Our model has only two additional arguments:
+Our model has three additional (optional) arguments:
 * percent (default = True) - Returns portfolio value in percentage instead of absolute value terms
 * compare_market (default = False) - Add True here if you also want to factor overall market performance into your simulations
 * alpha (default = 95) - The confidence interval upto which you want to predict VaR and cVaR. Usually we precict with 95% percent confidence
