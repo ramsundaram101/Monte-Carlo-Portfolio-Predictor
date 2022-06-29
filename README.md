@@ -5,7 +5,9 @@ Monte Carlo Simulation using Historical Data to Predict Portfolio Returns over a
 This model uses Monte Carlo Simulations (basically, running a large number of "random walks") to predict portfolio returns. Our Monte Carlo model assumes the distribution of daily returns of a portfolio to be a MultiVariate Normal Distribution. 
 This enables us to perform a random walk through our distribution i.e picking daily stock price movements on basis of their relative probability and run simulations accordingly
 
-The mechanism through which this is accomplished is slightly more complex but boils down to something called a Cholesky Decomposition which enables us to extract probabilities from a MultiVariate Distribution. Find a better explanation and more details on this here : http://www.math.kent.edu/~reichel/courses/monte.carlo/alt4.7c.pdf
+The mechanism through which this is accomplished is slightly more complex but boils down to something called a Cholesky Decomposition which enables us to extract probabilities from a MultiVariate Distribution. 
+
+Find a better explanation and more details on this here : http://www.math.kent.edu/~reichel/courses/monte.carlo/alt4.7c.pdf
 
 ## VaR and CVaR
 Value at Risk and Conditional Value at Risk are two metrics commonly used in the world of risk management. Our model additionally calculates these.
@@ -14,8 +16,8 @@ VaR basically tells us, upto a certain confidence level (usually 95%), what is t
 CVaR, also known as the expected shortfall, then tells us how much money we might expect to lose given a very extreme situation, a situation beyond our wildest nightmares. Nightmare is just pompous talk for our previously mentioned confidence level.
 
 For more details,
-VaR : https://www.investopedia.com/articles/04/092904.asp
-CVaR : https://www.investopedia.com/terms/c/conditional_value_at_risk.asp
+*  VaR : https://www.investopedia.com/articles/04/092904.asp
+* CVaR : https://www.investopedia.com/terms/c/conditional_value_at_risk.asp
 
 ## Sample Results
 Let's now run our model and look at some results. To find the actual code needed, scroll down a bit.
