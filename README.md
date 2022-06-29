@@ -13,7 +13,7 @@ Find a better explanation and more details on this here : http://www.math.kent.e
 Value at Risk and Conditional Value at Risk are two metrics commonly used in the world of risk management. Our model additionally calculates these.
 VaR basically tells us, upto a certain confidence level (usually 95%), what is the maximum money we could expect to lose i.e our maximum possible risk.
 
-CVaR, also known as the expected shortfall, then tells us how much money we might expect to lose given a very extreme situation, a situation beyond our wildest nightmares. Nightmare is just pompous talk for our previously mentioned confidence level.
+CVaR, also known as the expected shortfall, then tells us how much money we might expect to lose given a very extreme situation, a situation beyond our wildest nightmares. Beyond our wildest nightmares is just fancy talk for our beyond our previously mentioned confidence level.
 
 For more details,
 *  VaR : https://www.investopedia.com/articles/04/092904.asp
