@@ -42,6 +42,7 @@ And here's the outputted Portfolio Return Probability Distribution
 
 ![Returns](https://user-images.githubusercontent.com/87599801/176519788-a8ddbb87-ddd6-4c90-8f6b-a143393a4c0c.png)
 
+The bit filled in red is the area beyond the VaR, our worst-case scenario. Let's hope our portfolio never goes there!
 
 
 ### Using the model
