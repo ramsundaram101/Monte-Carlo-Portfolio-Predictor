@@ -1,0 +1,8 @@
+pandas
+numpy
+datetime
+yfinance
+scipy
+matplotlib
+seaborn
+argparse
