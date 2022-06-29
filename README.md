@@ -10,7 +10,7 @@ The mechanism through which this is accomplished is slightly more complex but bo
 Find a better explanation and more details on this here : http://www.math.kent.edu/~reichel/courses/monte.carlo/alt4.7c.pdf
 
 ## VaR and CVaR
-Value at Risk and Conditional Value at Risk are two metrics commonly used in the world of risk management. Our model additionally calculates these.
+Value at Risk (VaR) and Conditional Value at Risk (CVaR) are two metrics commonly used in the world of risk management. Our model additionally calculates these.
 VaR basically tells us, upto a certain confidence level (usually 95%), what is the maximum money we could expect to lose i.e our maximum possible risk.
 
 CVaR, also known as the expected shortfall, then tells us how much money we might expect to lose given a very extreme situation, a situation beyond our wildest nightmares. Beyond our wildest nightmares is just fancy talk for our beyond our previously mentioned confidence level.
@@ -44,6 +44,7 @@ And here's the outputted Portfolio Return Probability Distribution
 ![Returns](https://user-images.githubusercontent.com/87599801/176519788-a8ddbb87-ddd6-4c90-8f6b-a143393a4c0c.png)
 
 The bit filled in red is the area beyond the VaR, our worst-case scenario. Let's hope our portfolio never goes there!
+The VaR is the beginning of the area filled in red while the CVaR is the average (or expected value) of the area filled with red
 
 
 ### Using the model
