@@ -26,15 +26,21 @@ We'll predict portfolio performance for a portfolio consisting of Reliance, TCS,
 #### Inputs
 
 Here's our input
-![image, align='left'](https://user-images.githubusercontent.com/87599801/176519620-d7c8fb32-a8ba-45bb-b4ad-f5ba51c5e91e.png)
+
+
+![image](https://user-images.githubusercontent.com/87599801/176519620-d7c8fb32-a8ba-45bb-b4ad-f5ba51c5e91e.png)
 
 #### Outputs
 
 Here's the Output Predictions
-![image, align='left'](https://user-images.githubusercontent.com/87599801/176519676-d697098a-a583-46b4-96e9-962f5a155a12.png)
+
+
+![image](https://user-images.githubusercontent.com/87599801/176519676-d697098a-a583-46b4-96e9-962f5a155a12.png)
 
 And here's the outputted Portfolio Return Probability Distribution
-![Returns, align='left'](https://user-images.githubusercontent.com/87599801/176519788-a8ddbb87-ddd6-4c90-8f6b-a143393a4c0c.png)
+
+
+![Returns](https://user-images.githubusercontent.com/87599801/176519788-a8ddbb87-ddd6-4c90-8f6b-a143393a4c0c.png)
 
 
 
