@@ -83,7 +83,7 @@ Our model has three additional (optional) arguments:
 * compare_market (default = False) - Add True here if you also want to factor overall market performance into your simulations
 * alpha (default = 95) - The confidence interval upto which you want to predict VaR and cVaR. Usually we precict with 95% percent confidence
 
-For example, a script with these additional arguments would look like. Hpwever, feel free to omit these arguments and use the defaults.
+For example, a script with these additional arguments would look like this. However, feel free to omit these arguments and use the defaults.
 ```
 python MonteCarlo.py --percent False --compare_market True --alpha 99
 ```
