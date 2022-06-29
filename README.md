@@ -35,7 +35,8 @@ Here's our input
 Here's the Output Predictions
 
 
-![image](https://user-images.githubusercontent.com/87599801/176519676-d697098a-a583-46b4-96e9-962f5a155a12.png)
+![image](https://user-images.githubusercontent.com/87599801/176528165-a7c86b96-e498-4157-8ca6-14cdf69c5894.png)
+
 
 And here's the outputted Portfolio Return Probability Distribution
 
