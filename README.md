@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ```
 
 ##### Running the Simulator
-We're all set to run the actual simulator now! Just open your Terminal and run 
+We're all set to run the actual simulator now! Just open your Terminal and run.
 ```
 python MonteCarlo.py
 ```
